@@ -25,7 +25,7 @@ librtaio
 
 ```
 git clone https://github.com/tangyibo/librtaio.git
-cd librtaio
+cd librtaio/
 make clean
 make all
 ```
