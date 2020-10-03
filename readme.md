@@ -2,6 +2,12 @@ librtaio
 =========
   一个基于boost.asio实现的服务器端与客户端通信的网络协议。
 
+**项目地址**
+
+- github: https://github.com/tangyibo/librtaio
+
+- gitee: https://gitee.com/inrgihc/librtaio
+
 依赖
 -----
 
